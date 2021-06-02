@@ -17,4 +17,4 @@ jobs:
         server: ftp.bcilimited.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /public_html/v2/
+        server-dir: /home/bcilimited/v2/
